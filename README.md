@@ -1,4 +1,4 @@
-# 3.5.2-null-analysis
+# 3.5.2-jdt-null-analysis
 
 This is a backport of Eclipse JDT Core Batch Compiler (ECJ) 3.7.2 and supporting core and ui plugin code from Eclipse 4.2.1. This is a proof of concept that targeted the earliest release of ECJ to support null analysis and the first release of Eclipse to coincide with this version of ECJ to maximize code compatibility. The earliest releases were chosen to make backporting to such an old version of Eclipse easier. Support for newer versions of ECJ and Eclipse UI compiler options properties dialog should be possible.
 
@@ -21,3 +21,9 @@ The bug which is preventing a full rebuild seems to be related to this:
 https://bugs.eclipse.org/bugs/show_bug.cgi?id=319460
 
 To build from source, load the projects into your Eclipse IDE and build a jar. I don't know why the manifest doesn't generate properly, but it may be a consequence of not building the jar file using the platform build script. To work around this issue, use the manifest from the original release instead.
+
+## Screenshots
+
+<img src="docs/images/eclipse-null-annotations-win98_1.png" width="80%" />
+<img src="docs/images/eclipse-null-annotations-win98_2.png" width="80%" />
+<img src="docs/images/eclipse-null-annotations-win98_3.png"?raw=true&v=3& />
