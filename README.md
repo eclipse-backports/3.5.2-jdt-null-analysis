@@ -26,6 +26,6 @@ To build from source, load the projects into your Eclipse IDE and build, then ex
 
 ## Screenshots
 
-<img src="docs/images/eclipse-null-annotations-win98_1.png" width="80%" />
-<img src="docs/images/eclipse-null-annotations-win98_2.png" width="80%" />
+<img src="docs/images/eclipse-null-annotations-win98_1.png" style="width:655px" />
+<img src="docs/images/eclipse-null-annotations-win98_2.png" style="width:655px" />
 <img src="docs/images/eclipse-null-annotations-win98_3.png"?raw=true&v=3& />
