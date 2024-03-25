@@ -12,7 +12,7 @@ https://archive.eclipse.org/eclipse/downloads/drops4/R-4.2.1-201209141800/
 
 https://mvnrepository.com/artifact/org.eclipse.jdt.core.compiler/ecj
 
-I was only able build individual plugins and not the complete SDK release. The build tools and instructions for this version appear to be broken, and I don't know what's wrong with it. I welcome anyone who would like to try and figure it out how to get it working.
+I was only able build individual plugins and not the complete SDK release. The build tools and instructions for this version appear to be broken, and I don't know what's wrong with it. I welcome anyone who would like to try and figure out how to get it working.
 
 Original build instructions can be found here:
 
